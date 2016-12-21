@@ -1,0 +1,32 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {400, 800}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{0, 0}, {400, 800}}",
+        "class" : "WebView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "frame" : "{{100, 300}, {200, 200}}",
+          "uuid" : "C09D009A-7024-4FE5-B423-D0F9E193CA3E",
+          "class" : "WebView",
+          "name" : "wb1",
+          "scales_to_fit" : true
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

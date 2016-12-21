@@ -1,0 +1,54 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {400, 800}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{120, 22}, {150, 40}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "wear_connect",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Connect",
+          "uuid" : "63518182-C78D-4B37-8C0C-A8DA906D1A1B",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{42, 84}, {304, 296}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 24,
+          "editable" : true,
+          "frame" : "{{100, 300}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "3A63AA32-0469-4B2E-B3FE-63E6EA74BF82",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "connect_result",
+          "font_name" : "<System>"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

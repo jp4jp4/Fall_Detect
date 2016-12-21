@@ -1,0 +1,70 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {400, 800}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{25, 200}, {300, 34}}",
+        "class" : "Slider",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "W",
+          "continuous" : false,
+          "action" : "belt_adjust",
+          "frame" : "{{100, 383}, {200, 34}}",
+          "uuid" : "31DB47F8-A796-48E1-B967-9DB7A81D8497",
+          "class" : "Slider",
+          "value" : 0.5,
+          "name" : "slider1"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{25, 146}, {308, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{125, 384}, {150, 32}}",
+          "uuid" : "CFA244E7-DB9B-4FEA-8AC5-F32D804C15B1",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Haptic Feedback Intensity",
+          "font_size" : 24,
+          "name" : "lbl_haptic_feedback"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{25, 266}, {300, 60}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "lbl1",
+          "frame" : "{{125, 384}, {150, 32}}",
+          "uuid" : "21FD57CD-0F0B-45DD-86DF-5603A6A38058",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 24,
+          "font_name" : "<System>"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

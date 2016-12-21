@@ -1,0 +1,39 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {400, 600}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{19, 14}, {300, 500}}",
+        "class" : "TableView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "CD52612E-7CA3-47EE-9854-A4FEE1010ED0",
+          "editing" : true,
+          "background_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "frame" : "{{100, 200}, {200, 200}}",
+          "data_source_items" : "Trip: 12\/6\/2016, 4:15 pm\nTrip: 12\/7\/2016, 7:03 am\nFall: 12\/7\/2016, 7:03 am\nTrip: 12\/8\/2016, 8:32 pm",
+          "data_source_number_of_lines" : 1,
+          "data_source_move_enabled" : false,
+          "data_source_delete_enabled" : true,
+          "data_source_font_size" : 18,
+          "row_height" : 44,
+          "class" : "TableView",
+          "name" : "tableview1",
+          "flex" : "WH"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

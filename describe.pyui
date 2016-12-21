@@ -1,0 +1,69 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {403, 560}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{13, 41}, {329, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{104, 245}, {150, 32}}",
+          "uuid" : "13171A21-9CF7-42FA-8BAA-3322CBB6F9CE",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Describe Your Event",
+          "name" : "label1",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{13, 100}, {319, 207}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{79, 245}, {200, 32}}",
+          "spellchecking_type" : "yes",
+          "class" : "TextField",
+          "uuid" : "5068A973-AA91-4DD6-A831-4ACBE9C5272F",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "textfield1",
+          "font_size" : 17
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{129, 344}, {113, 61}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 36,
+          "frame" : "{{162, 264}, {80, 32}}",
+          "title" : "Send",
+          "class" : "Button",
+          "name" : "button1",
+          "uuid" : "3706DC8C-ECB9-4A12-86DC-EEE17F811C2F"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

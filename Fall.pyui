@@ -1,0 +1,153 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {369, 488}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{44, 16}, {51, 31}}",
+        "class" : "Switch",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "read_data",
+          "frame" : "{{135, 225}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "switch1",
+          "uuid" : "9FF772B8-E791-4939-80F8-5F52B31DC7E3"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 67}, {89, 415}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_name" : "<System>",
+          "editable" : true,
+          "frame" : "{{60, 140}, {200, 200}}",
+          "spellchecking_type" : "no",
+          "class" : "TextView",
+          "uuid" : "10EA8A61-D7FF-4E5A-86C5-71A6F4EEE072",
+          "alignment" : "left",
+          "autocorrection_type" : "no",
+          "name" : "gyro",
+          "font_size" : 10
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{103, 67}, {89, 415}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 10,
+          "editable" : true,
+          "frame" : "{{85, 144}, {200, 200}}",
+          "spellchecking_type" : "no",
+          "class" : "TextView",
+          "uuid" : "B148AA91-CF88-42FC-8734-EC8B9C644D60",
+          "alignment" : "left",
+          "autocorrection_type" : "no",
+          "name" : "gravity",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{194, 67}, {77, 415}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 10,
+          "editable" : true,
+          "frame" : "{{85, 144}, {200, 200}}",
+          "spellchecking_type" : "no",
+          "class" : "TextView",
+          "uuid" : "D447F0BA-AE6A-4176-B367-64C2E38348CB",
+          "alignment" : "left",
+          "autocorrection_type" : "no",
+          "name" : "accel",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{279, 67}, {84, 415}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_name" : "<System>",
+          "editable" : true,
+          "frame" : "{{85, 144}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "181023E2-664D-4112-AEF5-39CB599A7974",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "mag",
+          "font_size" : 10
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{103, 16}, {98, 31}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 12,
+          "frame" : "{{110, 228}, {150, 32}}",
+          "uuid" : "6153F2A4-90DE-4246-9277-715E8B05D6DA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "0",
+          "name" : "y",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{209, 16}, {150, 31}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{110, 228}, {150, 32}}",
+          "uuid" : "A3685891-FEE7-4606-8C27-81EE01B57BB1",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "fell",
+          "font_size" : 36
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)"
+    }
+  }
+]

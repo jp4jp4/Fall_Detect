@@ -1,0 +1,66 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {351, 537}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{37, 29}, {298, 387}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{101, 253}, {150, 32}}",
+          "uuid" : "6D212255-427C-49C5-8A49-4D45651BF934",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Did You Fall?",
+          "font_size" : 100,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{37, 403}, {146, 60}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{136, 253}, {80, 32}}",
+          "title" : "Yes",
+          "uuid" : "B361BCF0-A5B5-4394-9713-33BFC8339537",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 72
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{191, 403}, {154, 60}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{136, 253}, {80, 32}}",
+          "title" : "No",
+          "uuid" : "E7F16E31-373C-4C09-A9B7-193A137C5EDD",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 72
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {362, 541}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{74, 47}, {230, 94}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 36,
+          "font_name" : "<System>",
+          "frame" : "{{106, 255}, {150, 32}}",
+          "title" : "Yes",
+          "uuid" : "41B28CB7-4847-46DD-A1F3-DFA0F444C08B",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Did you slip\/trip\/fall on:",
+          "name" : "label1",
+          "text_color" : "RGBA(0.093633,0.093633,0.093633,1.000000)"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{89, 170}, {193, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{141, 255}, {80, 32}}",
+          "title" : "Stairway",
+          "uuid" : "D2338B0B-27F6-453B-961F-8F10EFFB5D0A",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{89, 219}, {200, 44}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{141, 255}, {80, 32}}",
+          "title" : "Ice \/ Snow",
+          "uuid" : "204CCC6E-4DCD-43F1-9A34-0917194B579B",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{89, 280}, {185, 52}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{141, 255}, {80, 32}}",
+          "title" : "Escalator",
+          "uuid" : "958591CF-BF1B-49EF-9299-26F147D2D5E5",
+          "class" : "Button",
+          "name" : "button3",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{12, 353}, {350, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{141, 255}, {80, 32}}",
+          "title" : "Sidewalk \/ Driveway",
+          "uuid" : "EDEF6A9F-2FB4-43B9-BB72-E624BDF3F815",
+          "class" : "Button",
+          "name" : "button4",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{50, 406}, {277, 51}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{141, 255}, {80, 32}}",
+          "title" : "Store \/ Building",
+          "uuid" : "2D4B018D-69D6-489E-9FA3-09C59070B511",
+          "class" : "Button",
+          "name" : "button5",
+          "font_size" : 36
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

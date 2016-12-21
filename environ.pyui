@@ -1,0 +1,245 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {400, 600}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{258, 27}, {102, 51}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "clear_data",
+          "frame" : "{{160, 384}, {80, 32}}",
+          "title" : "Clear",
+          "uuid" : "F114F802-D530-43AB-A5B6-97D571A44DAB",
+          "class" : "Button",
+          "name" : "clear",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{53, 27}, {190, 51}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "environ_data",
+          "frame" : "{{160, 384}, {80, 32}}",
+          "title" : "Refresh",
+          "uuid" : "B1B922FA-CF0E-4621-91F2-E79AA0B71499",
+          "class" : "Button",
+          "name" : "refresh",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{274, 97}, {101, 259}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_name" : "<System>",
+          "editable" : false,
+          "frame" : "{{100, 300}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "B8B824C4-C3FE-4B78-9284-49F731B88329",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 10,
+          "name" : "grav"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{215, 376}, {160, 167}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_name" : "<System>",
+          "editable" : false,
+          "frame" : "{{100, 300}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "262A1F73-9C2B-4843-9945-2C5037B1DA4B",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 10,
+          "name" : "att"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{53, 376}, {154, 167}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_name" : "<System>",
+          "editable" : false,
+          "frame" : "{{100, 300}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "82EE474B-CE19-4D6A-847C-84F0D3547A12",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 10,
+          "name" : "mag"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{53, 97}, {105, 259}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 12,
+          "editable" : false,
+          "frame" : "{{100, 300}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "E7C85DEA-FA19-43E9-ABBF-BAB31DE456CD",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "geo",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{166, 97}, {100, 259}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 12,
+          "editable" : false,
+          "frame" : "{{100, 300}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "D990694A-0804-4B27-BB0E-750FF8996971",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "acc",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{53, 76}, {88, 25}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{125, 284}, {150, 32}}",
+          "uuid" : "21A8D347-3E1D-4BD1-A118-5C2466EFFB5E",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "location",
+          "name" : "label1",
+          "font_size" : 10
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{166, 76}, {91, 25}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{125, 284}, {150, 32}}",
+          "uuid" : "7329250B-46FB-4C7A-8AA1-CE60CB1633EE",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "accelerometer",
+          "name" : "label2",
+          "font_size" : 10
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{274, 76}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{125, 284}, {150, 32}}",
+          "uuid" : "AC480E68-217E-461A-89BA-067477D632A1",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "gravity",
+          "name" : "label3",
+          "font_size" : 10
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{57, 354}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{125, 284}, {150, 32}}",
+          "uuid" : "AE4D0666-EC4C-4644-A862-31AE098BBD4A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "magnetometer",
+          "name" : "label4",
+          "font_size" : 10
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{215, 364}, {150, 22}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{125, 284}, {150, 32}}",
+          "uuid" : "0101B979-61A1-4C18-BA91-840DE8F0A6E5",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "attitude: roll, pitch, yaw",
+          "name" : "label5",
+          "font_size" : 10
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
